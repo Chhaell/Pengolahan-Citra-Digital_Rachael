@@ -1,0 +1,124 @@
+Nama : Rachael
+NPM : 011210008
+
+Soal Pilihan Ganda (single/jomblo choice)
+
+1. Soal :Rangkaian citra diam yang ditampilkan secara beruntun (sekuensial) sehingga
+memberi kesan pada mata kita sebagai gambar yang bergerak.Merupakan pengertian dari? 
+a.Citra (image)
+b.Citra Digital
+c.Citra bergerak (moving images) 
+d.Grafika Komputer
+e.Pengolahan Citra 
+
+Jawaban :C
+
+2. Soal :Histogram citra adalah representasi visual dari: 
+a.Distribusi kecerahan piksel pada citra 
+b.Jumlah total piksel pada citra
+c.Tingkat kejernihan citra
+d.Ukuran fisik citra
+e.memperbaiki kualiltas citra
+
+Jawaban :a
+
+3. Soal :Histogram citra grayscale adalah grafik yang menunjukkan: 
+a.Distribusi warna pada citra 
+b.Frekuensi kemunculan intensitas piksel pada citra
+c.Proporsi piksel hitam dan putih pada citra
+d.Nilai kecerahan maksimum dan minimum pada citra
+e.Jumlah total piksel pada citra
+Jawaban :b
+
+4. Soal :Kernel pada konvolusi pada dasarnya adalah ...
+a. Sebuah citra lain yang digunakan untuk mengganti citra asli
+b. Sebuah filter yang digunakan untuk mengurangi noise pada citra
+c. Sebuah matriks yang digunakan untuk mengubah nilai piksel pada citra
+d. Sebuah algoritma yang digunakan untuk memperbaiki kesalahan akurasi citra
+e.Sebuah operasi matematika untuk mengubah citra dengan kernel tertentu
+
+Jawaban :c
+
+5. Soal :Operasi titik dilakukan dengan memodifikasi histogram citra masukan agar sesuai dengan karakteristik yang diharapkan 
+a.Operasi spasial
+b.median filterring
+c.Operasi Titik
+d.operasi citra
+e.operasi histogram
+Jawaban :c
+
+Soal Pilihan Ganda (playboy/selingkuh/istri 4/multiple choice)
+
+6. Soal :Apa saja yang termasuk dalam Operasi-operasi pemrosesan citra digital.
+a.Image Enhancement 
+b.Image Denoising
+c.Image Compression 
+d.Image Analysis
+e.Image Deblurring
+
+Jawaban : (a,c,d)
+
+7. Soal :Apa saja yang termasuk manfaat grafika komputer 
+a.Bidang Hiburan.
+b.Virtual reality
+c.Still images
+d.Computer-Aided
+e.image processing
+
+Jawaban : (a,b,d)
+
+8. Soal :Apa saja Konvolusi berguna pada beberapa proses pengolahan citra seperti: 
+a.image enhancement
+b.image processing
+c.Noise reduction
+d.Edge Detection
+e.Smoothing
+Jawaban : (a,c,d,e)
+
+9. Soal :Proses-proses yang termasuk ke dalam perbaikan kualitas citra :
+a.Tingkat kejernihan citra
+b.Pengubahan kecerahan gambar (image brightness)
+c.Pewarnaan semu (pseudocolouring)
+d.Pelembutan citra (image smoothing)
+e.Distribusi kecerahan piksel pada citra 
+Jawaban : (b,c,d)
+
+10. Soal :Selain RGB, warna juga dapat dimodelkan berdasarkan atribut warnanya. Setiap 
+warna memiliki 3 buah atribut, yaitu 
+a.Smoothing
+b.color images
+c.Intensity/brigthness/luminance
+d.Hue
+e.Saturation
+Jawaban : (c,d,e)
+
+
+11. Soal :Computer-Aided adalah penggunaan komputer grafis untuk menghasilkan karya-karya seni. Hasil dapat berupa kartun, potret, foto, layout media cetak,
+logo, lukisan abstrak, desain interior atau eksterior, dan lain sebagainya. Contoh: Adobe Photoshop, Corel Painter, GIMP.
+Jawaban :Salah
+
+yang benar nya Computer art adalah penggunaan komputer grafis untuk menghasilkan karya-karya seni. Hasil dapat berupa kartun, potret, foto, layout media cetak,
+logo, lukisan abstrak, desain interior atau eksterior, dan lain sebagainya. Contoh: Adobe Photoshop, Corel Painter, GIMP.
+
+12. Soal :Pengolahan citra digital adalah pemrosesan citra digital dengan melakukan operasi-operasi pemrosesan sinyal dengan menggunakan computer.
+Jawaban :Benar
+
+13. Soal :Masalah pixel yang dikonvolusi adalah pixel pinggir (border), karena beberapa koefisien
+konvolusi tidak dapat dapat diposisikan pada pixel-pixel citra (efek “menggantung”), yang selalu
+terjadi pada pixel-pixel pinggir kiri, kanan, atas, dan bawah. 
+Jawaban :Benar
+
+14. Soal :Lossy Data piksel dapat direkonstruksimenjadi data piksel yang sama persis
+dengan data sebelum kompresi.
+Contoh format dokumen: GIF, PNG
+Jawaban :Salah
+Yang bener nya Lossy Data piksel tidak sama persis setelah proses kompresi (ada informasi yang hilang)
+Contoh format dokumen: JPEG
+
+15. Soal :Perbaikan kualitas citra (image enhancement) merupakan salah satu proses awal dalam pengolahan citra
+(image preprocessing). Perbaikan kualitas diperlukan karena seringkali citra yang dijadikan objek pembahasan
+mempunyai kualitas yang buruk, misalnya citra mengalami derau (noise) pada saat pengiriman melalui saluran
+transmisi, citra terlalu terang/gelap, citra kurang tajam, kabur, dan sebagainya.
+Jawaban :Benar
+
+
